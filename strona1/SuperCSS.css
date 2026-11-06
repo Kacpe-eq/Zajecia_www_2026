@@ -1,0 +1,27 @@
+h2 {
+   font-family: sans-serif; 
+   font-size: 40px;
+   text-align: right;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+#Zac {
+    background-color: #c560a7;
+}
+
+#Jinx {
+    background-color: #dfa833;
+}
+
+#EZport {
+    background-color: #8bf7ab;
+
+}
+
+img {
+    float:left
+}
